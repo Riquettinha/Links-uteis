@@ -45,6 +45,7 @@
 * [CloudFlare](https://www.cloudflare.com/pt-br/) - CDN grátis
 * [CMDER](https://cmder.net/) - Linha de comando simples, consegue rodar comands bash e Shell, alternativa ao Hyper
 * [CodePen](https://codepen.io/) - Rede social de desenvolvedores front-end
+* [ConvertJSON](https://www.convertjson.com/) - Conversor de JSON em diversos formatos como XML, tabela HTML, SQL insert, CSV, etc
 * [CodeSandbox](https://codesandbox.io/) - Caixa de área para desenvolvedores web
 * [CSS Formatter](https://www.cleancss.com/css-beautify/) - Retire a minificação e formate o código CSS
 * [CSS Minifier](https://cssminifier.com/) - Conversor de código CSS para CSS minificado
@@ -76,8 +77,10 @@
 * [Mussum Ipsum](https://mussumipsum.com/) - Gerador de texto fictício
 * [NPM HTTP-Server](https://www.npmjs.com/package/http-server) - Rode um servidor local com um pacote npm
 * [Online C Compiler](https://www.onlinegdb.com/online_c_compiler) - Ferramenta para compilar C online
+* [QuickType](https://quicktype.io/) - Conversor de JSON em código formatado em qualquer linguagem.
 * [React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - Ferramenta para debug do ReactJS
 * [React Hook Form](https://react-hook-form.com/) - Valide seus formulários de projetos que utilizam React ou React Native
+* [RegExr](https://regexr.com/) - Validador de Regex com sugestões da comunidade de Regex prontos
 * [RelaX](http://dbis-uibk.github.io/relax/index.htm) - Crie expressões algébricas relacionais de consultas
 * [Responsive](http://www.codeorama.com/responsive/) - Teste a responsividade do seu site
 * [SSL Server Test](https://www.ssllabs.com/ssltest/) - Testar SSL de sites
